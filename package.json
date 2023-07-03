@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR Image Generator Using Node.js",
+  "main": "qr.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Astitva Raj",
+  "license": "ISC"
+}
